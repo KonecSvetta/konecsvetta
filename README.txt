@@ -1,6 +1,1 @@
-lalala
-
-
-
-
-feature test
+тестовый репозиторий
